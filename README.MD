@@ -1,3 +1,5 @@
+*Deutsch | [English](README.en.md)*
+
 # Peerhof-Uni CC1101
 
 KiCad-Projekt für eine kompakte Trägerplatine, die einen **ESP8266 (Wemos D1 Mini)** mit einem **CC1101 Sub-GHz-Funkmodul** (z. B. 433/868 MHz) kombiniert. Die Platine dient als universelles Funk-Gateway bzw. -Sender/Empfänger und lässt sich z. B. zur Anbindung von 433-MHz-Sensoren, Aktoren oder Smarthome-Komponenten an WLAN nutzen.
@@ -14,7 +16,7 @@ Das Repository enthält zwei Varianten desselben Designs:
 - **[CC1101-ESP-8266-D1-Mini](CC1101-ESP-8266-D1-Mini/)** – *Light-Version*  
   Schlanke Variante ohne eigene Spannungsversorgung. Versorgung erfolgt direkt über den USB-Anschluss bzw. den 5-V-Pin des D1 Mini. Ideal, wenn bereits eine stabile 5-V-Quelle vorhanden ist.
 
-- **[Peerhof-Uni-CC1101 - With Power Supply](Peerhof-Uni-CC1101%20-%20With%20Power%20Supply/)** – *Variante mit Netzteil*  
+- **[CC1101-ESP8266-D1-Mini-With Power Supply](CC1101-ESP8266-D1-Mini-With%20Power%20Supply/)** – *Variante mit Netzteil*  
   Erweiterte Version mit zusätzlicher Bordspannungsversorgung für den autarken Betrieb (z. B. direkt aus einer höheren DC-Eingangsspannung).
 
 ## Funktionen / Merkmale
@@ -33,7 +35,7 @@ Das Repository enthält zwei Varianten desselben Designs:
 
 ```
 CC1101-ESP-8266-D1-Mini/                  KiCad-Projekt (Light)
-Peerhof-Uni-CC1101 - With Power Supply/   KiCad-Projekt (mit Netzteil)
+CC1101-ESP8266-D1-Mini-With Power Supply/ KiCad-Projekt (mit Netzteil)
 └── gerber/                               Fertigungsdaten (Gerber + Bohrdatei)
 ```
 
