@@ -2,7 +2,10 @@
 
 KiCad-Projekt für eine kompakte Trägerplatine, die einen **ESP8266 (Wemos D1 Mini)** mit einem **CC1101 Sub-GHz-Funkmodul** (z. B. 433/868 MHz) kombiniert. Die Platine dient als universelles Funk-Gateway bzw. -Sender/Empfänger und lässt sich z. B. zur Anbindung von 433-MHz-Sensoren, Aktoren oder Smarthome-Komponenten an WLAN nutzen.
 
-<img src="CC1101-ESP-8266-D1-Mini/images/cc1101-d1-mini.png" alt="CC1101 ESP8266 D1 Mini" width="35%">
+<p>
+  <img src="CC1101-ESP-8266-D1-Mini/images/cc1101-d1-mini.png" alt="CC1101 ESP8266 D1 Mini (Light)" height="250">
+  <img src="Peerhof-Uni-CC1101%20-%20With%20Power%20Supply/images/cc1101-d1-mini-withpowersupply.png" alt="CC1101 ESP8266 D1 Mini mit Netzteil" height="250">
+</p>
 
 ## Projektvarianten
 
