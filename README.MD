@@ -4,7 +4,7 @@ KiCad-Projekt für eine kompakte Trägerplatine, die einen **ESP8266 (Wemos D1 M
 
 <p>
   <img src="CC1101-ESP-8266-D1-Mini/images/cc1101-d1-mini.png" alt="CC1101 ESP8266 D1 Mini (Light)" height="250">
-  <img src="Peerhof-Uni-CC1101%20-%20With%20Power%20Supply/images/cc1101-d1-mini-withpowersupply.png" alt="CC1101 ESP8266 D1 Mini mit Netzteil" height="250">
+  <img src="CC1101-ESP8266-D1-Mini-With%20Power%20Supply/images/cc1101-d1-mini-withpowersupply.png" alt="CC1101 ESP8266 D1 Mini mit Netzteil" height="250">
 </p>
 
 ## Projektvarianten
