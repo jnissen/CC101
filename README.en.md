@@ -46,6 +46,11 @@ CC1101-ESP8266-D1-Mini-With Power Supply/ KiCad project (with power supply)
 3. Send the Gerber files from the corresponding `gerber/` folder to a PCB manufacturer.
 4. Populate the board, flash the ESP8266 with the firmware of your choice (e.g. ESPHome, Tasmota with CC1101 patch, your own Arduino sketch) and connect it to the SPI pins of the D1 Mini.
 
+## Where to buy
+
+- CC1101 radio module (Amazon, affiliate link): <https://amzn.to/4uQriL0>
+- Wemos D1 Mini (ESP8266) (Amazon, affiliate link): <https://amzn.to/4tIXEXa>
+
 ## License
 
 This project is licensed under **CERN-OHL-W-2.0**: <https://ohwr.org/cern_ohl_w_v2.txt>

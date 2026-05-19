@@ -46,6 +46,11 @@ CC1101-ESP8266-D1-Mini-With Power Supply/ KiCad-Projekt (mit Netzteil)
 3. Gerber-Daten aus dem jeweiligen `gerber/`-Ordner an einen PCB-Hersteller übermitteln.
 4. Bestücken, ESP8266 mit gewünschter Firmware flashen (z. B. ESPHome, Tasmota mit CC1101-Patch, eigene Arduino-Skizze) und an SPI-Pins des D1 Mini anschließen.
 
+## Bezugsquellen
+
+- CC1101-Funkmodul (Amazon, Affiliate-Link): <https://amzn.to/4uQriL0>
+- Wemos D1 Mini (ESP8266) (Amazon, Affiliate-Link): <https://amzn.to/4tIXEXa>
+
 ## Lizenz
 
 Dieses Projekt steht unter der **CERN-OHL-W-2.0** Lizenz: <https://ohwr.org/cern_ohl_w_v2.txt>
